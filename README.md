@@ -24,7 +24,7 @@ Este portfólio é uma aplicação web responsiva, desenvolvida com HTML, CSS e 
 
 ## 📷 Preview
 
-Veja o portfólio em funcionamento: [🔗 Link para o site]<https://jonas-jt.github.io/>
+Veja o portfólio em funcionamento: [🔗 Link para o site](https://jonas-jt.github.io/)
 
 ## 📬 Contato
 
